@@ -15,4 +15,4 @@ permissions:
 
 jobs:
   auto-pr:
-    uses: renatofreitasRR/git-flow-module/.github/workflows/auto-pr-gitflow.yml@v1.0.1
+    uses: renatofreitasRR/git-flow-module/.github/workflows/auto-pr-gitflow.yml@v1.0.2
