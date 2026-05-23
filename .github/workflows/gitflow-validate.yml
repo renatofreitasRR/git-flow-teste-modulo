@@ -1,0 +1,13 @@
+# .github/workflows/gitflow-validate.yml
+name: GitFlow Validate
+
+on:
+  pull_request:
+    branches:
+      - develop
+      - main
+      - "release/**"
+
+jobs:
+  validate:
+    uses: renatofreitasRR/git-flow-module/.github/workflows/gitflow-validate.yml@v1.0.1
