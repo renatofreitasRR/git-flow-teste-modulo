@@ -14,4 +14,4 @@ permissions:
 
 jobs:
   validate:
-    uses: renatofreitasRR/git-flow-module/.github/workflows/gitflow-validate.yml@v1.0.2
+    uses: renatofreitasRR/git-flow-module/.github/workflows/gitflow-validate.yml@v1.0.3
