@@ -11,4 +11,4 @@ on:
 
 jobs:
   auto-pr:
-    uses: renatofreitasRR/git-flow-module/.github/workflows/gitflow-auto-pr.yml@v1.0.1
+    uses: renatofreitasRR/git-flow-module/.github/workflows/auto-pr-gitflow.yml@v1.0.1
